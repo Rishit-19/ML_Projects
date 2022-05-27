@@ -1,2 +1,2 @@
 # ML_Projects
-Basic ML projects to learn stuffs.
+Basic ML projects.
