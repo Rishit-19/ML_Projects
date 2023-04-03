@@ -1,2 +1,2 @@
 # ML_Projects
-Basic ML projects.
+ML projects.
